@@ -1,16 +1,63 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A passionate full stack developer from germany 🇪🇺</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [streamio-subtitle-service](https://streamio-subtitle-service.vercel.app/)
+# Felix Schoberwalter
 
-- 🌱 I’m currently learning **Full stack development focusing on nextjs, supabase, prisma**
+### Full Stack Developer from Germany 🇩🇪
 
-- 👨‍💻 All of my projects are available at [https://schobi-dev.vercel.app/](https://schobi-dev.vercel.app/)
+_Building modern web applications with a focus on user experience and scalable architecture_
 
-- 📫 How to reach me **schoberwalterfelix@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-schobi--dev.vercel.app-blue?style=for-the-badge&logo=vercel)](https://schobi-dev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-schoberwalterfelix%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:schoberwalterfelix@gmail.com)
 
-- 📄 Know about my experiences [https://schobi-dev.vercel.app/Resume_Felix_Schoberwalter_English.pdf](https://schobi-dev.vercel.app/Resume_Felix_Schoberwalter_English.pdf)
+</div>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 Current Focus
+
+**[Multi-Sub](https://streamio-subtitle-service.vercel.app/)** - Intelligent subtitle processing service  
+_Automated translation • Multi-language support • Timing optimization_
+
+## 🛠️ Specialties
+
+```typescript
+const felix = {
+    code: ["TypeScript", "JavaScript", "Python", "Java"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "Flutter"],
+    backend: ["Node.js", "Express", "Prisma", "Supabase"],
+    databases: ["PostgreSQL", "MongoDB", "SQLite"],
+    cloud: ["Vercel", "Azure", "Docker"],
+    focus: "Building scalable web applications with great UX",
+};
+```
+
+## 🎯 What I'm Building
+
+-   **🎬 Media Processing**: Intelligent subtitle services with AI integration
+-   **🤖 Automation**: Trigger.dev workflows and notion integrations
+-   **💬 AI Tools**: Coding assistants and life mentoring applications
+-   **⌨️ Developer Tools**: Custom code editors and typing practice systems
+
+## 💡 Ask Me About
+
+<div align="center">
+
+```bash
+Full-stack development with Next.js and Supabase
+Building scalable subtitle processing systems  
+AI integration in web applications
+Prisma and database optimization
+Automated workflow design with Trigger.dev
+```
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something amazing together**
+
+[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-success?style=for-the-badge)](https://schobi-dev.vercel.app/Resume_Felix_Schoberwalter_English.pdf)
+
+</div>
