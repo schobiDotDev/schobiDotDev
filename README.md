@@ -4,7 +4,7 @@
 
 <br/>
 
-`📍 Mannheim, Germany` · `💼 Freelance Engineer` · `🚀 Shipping fast, building right`
+`📍 Mannheim, Germany` · `💼 Software Engineer @ Janitos` · `🚀 Building AI & fullstack products`
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 ### About
 
-I build fullstack products — from idea to production. My focus is on AI-powered applications, developer tools, and browser automation. I care about clean architecture, great UX, and shipping things that actually work.
+I build fullstack products — from idea to production. Currently working as Software Engineer at **Janitos Versicherung** in Heidelberg, focusing on document classification, input management, and AI-powered solutions using Azure Functions and Oracle SQL.
 
-Currently exploring the intersection of **AI engineering** and **real-time voice interfaces**.
+On the side, I ship AI-powered SaaS products and dev tools. My focus is on clean architecture, great UX, and building things that actually work. Exploring **AI agents**, **browser automation**, and **AI-powered content generation**.
 
 ---
 
@@ -40,7 +40,7 @@ Infrastructure   Vercel · Docker · GitHub Actions · Linux
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Multi-Sub](https://streamio-subtitle-service.vercel.app/)** | AI-powered subtitle translation & enrichment platform | Next.js · Supabase · OpenAI |
+| **[MultiSub](https://www.multisub.org)** | AI-powered subtitle platform for Stremio — 3,000+ users, bilingual subs & learner mode | Next.js · Supabase · OpenAI · Stripe |
 | **[Discord Voice Bot](https://github.com/schobiDotDev/discord-voice-bot)** | Modular voice bot with swappable STT/TTS providers | TypeScript · discord.js · Whisper |
 | **[Auto Push-to-Talk](https://github.com/schobiDotDev/auto-push-to-talk)** | Voice-activated push-to-talk for Valorant & gaming | C# · .NET · Windows Audio API |
 
@@ -48,10 +48,10 @@ Infrastructure   Vercel · Docker · GitHub Actions · Linux
 
 ### What I'm Working On
 
-- 🎹 **GracePiano** — Online booking & contract management for piano teachers
-- 🧘 **Guided Meditation** — Headspace-style sessions with AI-generated audio
-- 🎵 **Suno Local API** — Browser automation toolkit for AI music generation
-- 📰 **Tagesschau in 100 Sekunden** — Automated German news summaries with generated audio
+- 🎬 **[MultiSub](https://www.multisub.org)** — Growing SaaS with 3K+ users, AI subtitle translation for Stremio
+- 🎵 **SunoMusic** — Automated music production pipeline (Suno → YouTube), scaling to 3-5 channels/week
+- 🧘 **Guided Meditation** — Free Headspace alternative with Kokoro TTS-powered sessions
+- 🤖 **AI Agent System** — Multi-agent OpenClaw setup managing projects & life autonomously
 
 ---
 
