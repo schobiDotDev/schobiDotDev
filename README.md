@@ -18,7 +18,7 @@
 
 ### About
 
-I build fullstack products — from idea to production. Currently working as Software Engineer at **Janitos Versicherung** in Heidelberg, focusing on document classification, input management, and AI-powered solutions using Azure Functions and Oracle SQL.
+I build fullstack products — from idea to production. Currently working as Software Engineer at **Janitos Versicherung** in Heidelberg, focusing on document classification, input management, and AI-powered solutions.
 
 On the side, I ship AI-powered SaaS products and dev tools. My focus is on clean architecture, great UX, and building things that actually work. Exploring **AI agents**, **browser automation**, and **AI-powered content generation**.
 
@@ -28,7 +28,7 @@ On the side, I ship AI-powered SaaS products and dev tools. My focus is on clean
 
 ```
 Languages        TypeScript · JavaScript · Python · C# · Java
-Frontend         React · Next.js 15 · Tailwind CSS · Framer Motion · Three.js
+Frontend         React · Next.js 15 · Tailwind CSS · Framer Motion
 Backend          Node.js · Express · Supabase · Prisma · PostgreSQL
 AI / ML          OpenAI · Anthropic · Whisper · TTS · Browser Automation
 Infrastructure   Vercel · Docker · GitHub Actions · Linux
@@ -40,18 +40,20 @@ Infrastructure   Vercel · Docker · GitHub Actions · Linux
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[MultiSub](https://www.multisub.org)** | AI-powered subtitle platform for Stremio — 3,000+ users, bilingual subs & learner mode | Next.js · Supabase · OpenAI · Stripe |
-| **[Discord Voice Bot](https://github.com/schobiDotDev/discord-voice-bot)** | Modular voice bot with swappable STT/TTS providers | TypeScript · discord.js · Whisper |
-| **[Auto Push-to-Talk](https://github.com/schobiDotDev/auto-push-to-talk)** | Voice-activated push-to-talk for Valorant & gaming | C# · .NET · Windows Audio API |
+| **[MultiSub](https://www.multisub.org)** | AI subtitle platform for Stremio — 3,000+ users, bilingual subs & learner mode | Next.js · Supabase · OpenAI · Stripe |
+| **[SunoKit](https://github.com/schobiDotDev/sunokit)** | CLI & Node.js library for AI music generation — full feature parity, headless-ready | TypeScript · Node.js · Puppeteer |
+| **[GeminiKit](https://github.com/schobiDotDev/geminikit)** | Browser automation library for Gemini image generation with persistent sessions | TypeScript · Node.js · Puppeteer |
+| **[Discord Voice Bot](https://github.com/schobiDotDev/discord-voice-bot)** | Modular voice bot with swappable STT/LLM/TTS providers | TypeScript · discord.js · Whisper |
 
 ---
 
 ### What I'm Working On
 
 - 🎬 **[MultiSub](https://www.multisub.org)** — Growing SaaS with 3K+ users, AI subtitle translation for Stremio
-- 🎵 **SunoMusic** — Automated music production pipeline (Suno → YouTube), scaling to 3-5 channels/week
-- 🧘 **Guided Meditation** — Free Headspace alternative with Kokoro TTS-powered sessions
-- 🤖 **AI Agent System** — Multi-agent OpenClaw setup managing projects & life autonomously
+- 🌐 **[schobi.dev](https://schobi.dev)** — Personal brand & portfolio — writing, projects, AskFelix AI chat
+- 🎵 **SunoKit / GeminiKit** — Open-source browser automation tooling for AI content pipelines
+- 🎮 **LoL Wiki Bot** — In-game overlay for League of Legends with voice triggers + AI answers
+- 🤖 **Multi-agent AI system** — OpenClaw-based agents managing projects & life autonomously
 
 ---
 
