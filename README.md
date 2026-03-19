@@ -16,31 +16,9 @@
 
 ---
 
-### Hey, ich bin Felix.
+Fullstack developer from Mannheim, Germany. I build my own products and work on things that excite me.
 
-Fullstack-Entwickler aus Mannheim. Bau eigene Produkte und arbeite an Projekten, die mich kicken.
-
-Ich mach alles selbst — Architektur, Backend, UI, Deploy. Dabei ist mir wichtig, dass der Stack modern und clean ist: gutes Tooling, Observability, CI/CD, Tests — nicht nur "es funktioniert", sondern es funktioniert *richtig*.
-
----
-
-**Stack**
-
-```
-TypeScript · React · Next.js · Tailwind · Node.js · Python
-PostgreSQL · Supabase · Prisma · Vercel · Docker · GitHub Actions
-```
-
-Aktuell viel mit AI unterwegs — LLMs, Agents, Tool Calling, Browser Automation, Voice Pipelines.
-
----
-
-**Projekte**
-
-- **[MultiSub](https://www.multisub.org)** — AI-Untertitel für Stremio. 3.000+ User, bilinguale Subs, Learner Mode. Next.js, Supabase, Stripe.
-- **[SunoKit](https://github.com/schobiDotDev/sunokit)** — CLI & Library für AI Music Generation via Browser Automation.
-- **[GeminiKit](https://github.com/schobiDotDev/geminikit)** — Gleiche Idee, für Gemini Image Generation. Persistent Sessions, headless-ready.
-- **[Discord Voice Bot](https://github.com/schobiDotDev/discord-voice-bot)** — Modularer Voice Bot mit austauschbaren STT/LLM/TTS Providern.
+I do everything myself — architecture, backend, UI, deploy. I care about modern, clean stacks: good tooling, observability, CI/CD, tests — not just "it works", but it works *properly*.
 
 ---
 
