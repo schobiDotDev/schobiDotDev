@@ -18,7 +18,7 @@
 
 Fullstack developer from Mannheim, Germany. I build my own products and work on things that excite me.
 
-I do everything myself — architecture, backend, UI, deploy. I care about modern, clean stacks: good tooling, observability, CI/CD, tests — not just "it works", but it works *properly*.
+I do everything myself architecture, backend, UI, deploy. I care about modern, clean stacks: good tooling, observability, CI/CD, tests not just "it works", but it works *properly*.
 
 ---
 
