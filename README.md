@@ -1,30 +1,21 @@
-<div align="center">
+<img src="assets/felix.webp" alt="Felix outdoors, wearing a white T-shirt" width="160" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=schobiDotDev;Fullstack+Developer+%26+AI+Engineer" alt="Typing SVG" />
+`schobi@github:~$ whoami`
 
-<br/>
+# Felix Schoberwalter
 
-<img src="https://komarev.com/ghpvc/?username=schobiDotDev&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+Schobi. Full-stack developer in Mannheim, Germany.
 
-<br/><br/>
+I build software at [Bootsschule X](https://bootsschulex.de) and work on my own products alongside it. I like taking an idea all the way through: the interface, the backend, getting it online, and fixing what breaks once people use it.
 
-[![Portfolio](https://img.shields.io/badge/schobi.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://schobi.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schoberwalterfelix@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felix-schoberwalter)
+Lately, much of my work is about coding agents: giving them useful context, splitting up work, and checking what they actually built. I use them every day, including on the tools I use to run my projects.
 
-</div>
+I want more of those projects to become products people use and pay for. That's what I'm working towards.
 
----
+### Away from the keyboard
 
-Fullstack developer from Mannheim, Germany. I build my own products and work on things that excite me.
-
-I do everything myself architecture, backend, UI, deploy. I care about modern, clean stacks: good tooling, observability, CI/CD, tests not just "it works", but it works *properly*.
+Travel, hiking, a workout followed by the sauna. I work remotely and like being able to take my work with me.
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=schobiDotDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=schobiDotDev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-
-</div>
+[schobi.dev](https://schobi.dev) · [LinkedIn](https://www.linkedin.com/in/felix-schoberwalter) · [Email](mailto:schoberwalterfelix@gmail.com)
