@@ -1,10 +1,20 @@
-<img src="assets/felix.webp" alt="Felix outdoors, wearing a white T-shirt" width="160" align="right" />
+<div align="center">
 
-`schobi@github:~$ whoami`
+<img src="assets/felix.webp" alt="Felix outdoors, wearing a white T-shirt" width="128" height="128" />
 
 # Felix Schoberwalter
 
-Schobi. Full-stack developer in Mannheim, Germany.
+**Schobi · Full-stack developer · Mannheim, Germany**
+
+`building with agents / rethinking how things get built`
+
+[schobi.dev](https://schobi.dev) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/felix-schoberwalter) &nbsp; / &nbsp; [Get in touch](mailto:schoberwalterfelix@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=schobiDotDev&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile view counter" />
+
+</div>
+
+### All-in on agentic systems
 
 I'm all-in on AI and agentic systems. I've been following LLMs from the early days and believed in where this was going from the start. Watching agents do more of what I used to imagine makes me want to build even more.
 
@@ -18,6 +28,11 @@ I'm up for all kinds of AI projects and happy to put the work in. I want to make
 
 Travel, hiking, a workout followed by the sauna. I work remotely and like being able to take my work with me.
 
----
+### On GitHub
 
-[schobi.dev](https://schobi.dev) · [LinkedIn](https://www.linkedin.com/in/felix-schoberwalter) · [Email](mailto:schoberwalterfelix@gmail.com)
+<p align="center">
+  <a href="https://github.com/schobiDotDev?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=schobiDotDev&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&custom_title=Public%20GitHub%20activity" alt="Public GitHub activity: stars, commits, pull requests and issues" width="400" /></a>
+  <a href="https://github.com/schobiDotDev?tab=overview"><img src="https://streak-stats.demolab.com?user=schobiDotDev&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=8B949E&currStreakNum=8B949E&sideLabels=8B949E&dates=8B949E&disable_animations=true" alt="GitHub contributions, current streak and longest streak" width="400" /></a>
+</p>
+
+<p align="center"><sub>The activity card covers public work. More of my work lives in private repos.</sub></p>
