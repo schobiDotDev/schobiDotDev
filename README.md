@@ -6,11 +6,13 @@
 
 Schobi. Full-stack developer in Mannheim, Germany.
 
-I build software at [Bootsschule X](https://bootsschulex.de) and work on my own products alongside it. I like taking an idea all the way through: the interface, the backend, getting it online, and fixing what breaks once people use it.
+I'm all-in on AI and agentic systems. I've been following LLMs from the early days and believed in where this was going from the start. Watching agents do more of what I used to imagine makes me want to build even more.
 
-Lately, much of my work is about coding agents: giving them useful context, splitting up work, and checking what they actually built. I use them every day, including on the tools I use to run my projects.
+Agentic automation, coding agents, agents running other agents. I'm usually trying whatever everyone is excited about, hacking together my own version, or throwing out yesterday's setup to try something new. I've been through a lot of tools that way, and I love figuring out what I can do with the next one.
 
-I want more of those projects to become products people use and pay for. That's what I'm working towards.
+That also means rethinking how I work: workflows, tools, processes, design. With what AI can do now, what would I build differently if I started over today? I keep asking that, then trying it on my own projects.
+
+I'm up for all kinds of AI projects and happy to put the work in. I want to make things that actually exist, get them into people's hands, and keep building from there. If you're working on something and want to build together, get in touch.
 
 ### Away from the keyboard
 
